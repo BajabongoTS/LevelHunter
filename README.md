@@ -57,7 +57,7 @@ g++ main.cpp -o LevelHunter
 
 ## 📸 Screenshots
 
-![Uploading levelhunter.gif…]()
+<img src="levelhunter.gif" width="600">
 
 ## 🛠️ Plany na przyszłość
 
